@@ -1,0 +1,1 @@
+const String apiLink = "https://dummyjson.com/products";
